@@ -24,5 +24,5 @@ Here you can explore my end-to-end testing projects and documentation:
   
   ## 📫 Let´s connect
   Feel free to reach out for professional opportunities, collaboration or to talk about software quality assurance!
-- [LinkedIn](www.linkedin.com/in/gabriela-ra-qa)
+- [LinkedIn](https://www.linkedin.com/in/gabriela-ra-qa)
 - [Notion Portfolio](https://good-advantage-d17.notion.site/My-Portfolio-QA-fe82f0422dd683eba7b9014228917c89?source=copy_link)
