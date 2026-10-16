@@ -16,8 +16,8 @@
 
 ## Projects
 Here you can explore my end-to-end testing projects and documentation:
-- [*Urban Scooter | Web & Mobile Testing*]([REPOSITORY-LINK](https://github.com/GabrielaRA03/Urban-Scooter-Portfolio)) — comprehensive functional, API and cross-browser testing for scooter rental service
-- [*Urban Routes | Test Automation*]*: Automated UI and API test suite built with Python, PyTest, Selenium, and Page Object Model.
+- [*Urban Scooter | Web & Mobile Testing*](https://github.com/GabrielaRA03/Urban-Scooter-Portfolio) comprehensive functional, API and cross-browser testing for scooter rental service
+- [*Urban Routes | Test Automation*](https://github.com/GabrielaRA03/qa-project-Urban-Routes-es/tree/main) Automated UI and API test suite built with Python, PyTest, Selenium, and Page Object Model.
 * *Urban Grocers* (soon)
 * *Chicago Taxi* (soon)
 
