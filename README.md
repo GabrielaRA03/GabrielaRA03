@@ -19,7 +19,7 @@ Here you can explore my end-to-end testing projects and documentation:
 - [*Urban Scooter | Web & Mobile Testing*](https://github.com/GabrielaRA03/Urban-Scooter-Portfolio) comprehensive functional, API and cross-browser testing for scooter rental service.
 - [*Urban Routes | Test Automation*](https://github.com/GabrielaRA03/qa-project-Urban-Routes-es/tree/main) Automated UI and API test suite built with Python, PyTest, Selenium, and Page Object Model.
 - [*Urban Grocers | API testing and automation*](https://github.com/GabrielaRA03/qa-project-Urban-Grocers-app-es/tree/main) REST API testing and automation with Python, PyTest, Postman, and Apidog, validating endpoints and edge cases.
-* *Chicago Taxi* (soon)  Database analysis and log investigation using PostgreSQL, complex SQL queries, and Linux SSH commands.
+- [*Chicago Taxi | Database Fundamentals*](https://github.com/GabrielaRA03/Chicago-Taxi---Database-Fundamentals)  Database analysis and log investigation using PostgreSQL, complex SQL queries, and Linux SSH commands.
 
   
   ## 📫 Let´s connect
